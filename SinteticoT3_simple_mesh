@@ -1,4 +1,4 @@
-```matlab
+```ruby
 
 clear all; close all;
 % setting some default plot options
